@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/AslihanINAN/AslihanINAN/main/assets/Banner.png)
+![Banner](https://raw.githubusercontent.com/AslihanINAN/AslihanINAN/main/assets/Banner.jpeg)
 
 # Hi there, I'm Aslıhan 👋
 
